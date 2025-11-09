@@ -1,93 +1,55 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B+I'm+Nikhil+Kumar;Full-Stack+Developer+%7C+Cloud+%7C+AI%2FML;Building+Scalable+%26+Impactful+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B+I'm+Akshat+Pandey;Motivated+Full-Stack+Developer+%7C+Java+%7C+MERN;Building+Scalable+%26+Secure+Web+Applications" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://nk10nikhil.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/nk10nikhil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:nk10nikhil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://leetcode.com/u/nk10nikhil/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.linkedin.com/in/akshatpandey/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:pandeyakshat2504@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/akshatpandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Akshat Pandey | Full-Stack Developer & Java Enthusiast
 
-🎓 *B.Tech Computer Science and Design* @ GCET'27  
-💼 *Co-Founder & Software Engineer* @ WeBuilt_U  
-🚀 Full-Stack Developer | Cloud Architect | AI/ML Enthusiast | Blockchain Explorer
+[cite_start]I am a highly **motivated Full-Stack Developer** [cite: 2] [cite_start]seeking to leverage my MCA background and technical skills to develop scalable web applications for a dynamic organization[cite: 3]. [cite_start]I focus on contributing to impactful projects and fostering professional growth[cite: 3].
 
-- 🔭 Currently building *scalable web applications* with modern tech stacks
-- 🌱 Learning *Web3, Blockchain & Advanced AI/ML*
-- 🏆 *SIH 2024 Participant* - Built a QR-based ticketing system for 3,000+ attendees in 36 hours
-- 💡 Solved *200+ DSA problems* on LeetCode & Codeforces
-- 🎯 Open-source contributor & hackathon enthusiast
-- ⚡ Fun fact: I turn coffee into code ☕➡💻
+* [cite_start]🎓 **Education:** MCA '25 Candidate @ Galgotias College of Engineering and Technology (Sep 2023 - July 2025) [cite: 8, 9]
+* [cite_start]📍 **Location:** Noida, Uttar Pradesh, India [cite: 13]
+* [cite_start]💡 **Expertise:** Java, JavaScript, React.js, Node.js, and implementing secure RESTful APIs[cite: 2, 19, 21, 22, 38].
+* [cite_start]⚙️ **Core Coursework:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management, and Computer Networks[cite: 47, 48, 49, 52].
+* [cite_start]🚀 **Goal:** To develop scalable web applications, contributing to impactful projects[cite: 3].
+* [cite_start]⚡ **Fun Fact:** My technical foundation includes deep coursework in Operating Systems[cite: 51].
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠 Tech Stack Expertise
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nk10nikhil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nk10nikhil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk10nikhil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nk10nikhil&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="170"/>
-</div>
-
----
-
-## 🛠 Tech Stack
+A snapshot of the programming languages, frameworks, databases, and tools I use to build robust software.
 
 <div align="center">
 
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
-
+### Web Technologies (MERN Stack Focus)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### AI/ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Databases & Cloud
-
+### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### Tools & Others
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
@@ -95,114 +57,83 @@
 
 ## 🚀 Featured Projects
 
+Demonstrating skills in building complete, production-ready applications with a focus on scalability and security.
+
 <div align="center">
 
-### 🛒 [E-commerce Platform with Secure Payments](https://myprojectbazaar.vercel.app/)
+### 🛒 E-commerce Platform with Secure Payments
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nk10nikhil/myprojectbazaar)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://myprojectbazaar.vercel.app/)
+[cite_start]**Key Technologies:** React.js, Next.js, Node.js, Express.js, MongoDB [cite: 36]
 
-Full-stack e-commerce platform with Razorpay integration  
-✅ 6,000+ transactions/month | ⚡ 40% faster checkout | 📈 55% improved load times
-
----
-
-### 🎟 [QR-Based Ticketing System](https://myeventorg.vercel.app/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nk10nikhil/myeventorg)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://myeventorg.vercel.app/)
-
-Built in 36 hours for SIH 2024 Hackathon  
-✅ 3,000+ attendees managed | 🚀 90+ Lighthouse score | 📊 Scalable REST APIs
+> [cite_start]Full-stack platform featuring **Razorpay** integration for secure payments[cite: 37].
+> [cite_start]* Handled **6,000+ monthly transactions**[cite: 37].
+> [cite_start]* Implemented **RESTful APIs** with **JWT authentication** for efficient checkout[cite: 38].
+> [cite_start]* Optimized performance using **lazy loading** and **Lighthouse audits** to improve application speed and reliability[cite: 39, 40].
 
 ---
 
-### 📊 [Predictive Analytics Dashboard](https://mycollegeorg.vercel.app/)
+### 🏡 StayNest - Vacation Rental Platform
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nk10nikhil/mycollegeorg)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://mycollegeorg.vercel.app/)
+[cite_start]**Key Technologies:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Tailwind CSS [cite: 31, 34]
 
-ML-powered predictive dashboard  
-✅ 87% accuracy | ⚡ 25% reduced query latency | 📈 Real-time analytics
-
----
-
-### 💬 [Real-Time Chat Application](https://networkup.vercel.app/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nk10nikhil/networkup)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://networkup.vercel.app/)
-
-Secure real-time messaging platform  
-✅ 2,500+ concurrent users | 🔐 JWT encryption | 🧪 95% test coverage
+> [cite_start]A fully functional rental platform built entirely on the **MERN Stack**[cite: 31].
+> [cite_start]* Core features include browsing properties, booking stays, and managing listings[cite: 32].
+> [cite_start]* Implemented **JWT authentication** for secure access[cite: 33].
+> [cite_start]* Used **Cloudinary** for scalable image uploads[cite: 33].
+> [cite_start]* Features a **responsive UI** designed with Tailwind CSS for cross-device compatibility[cite: 34].
 
 </div>
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🏅 Certifications & Skills
+
+Validating specialized knowledge in core development and cloud technologies.
 
 <div align="center">
 
-| 🏆 Achievements                   | 🎓 Certifications                           |
-| :-------------------------------- | :------------------------------------------ |
-| 🥇 SIH 2024 Participant           | ✅ GitHub Foundations                       |
-| 💻 200+ DSA Problems Solved       | ✅ MongoDB Associate DBA                    |
-| 🌟 Active Open-Source Contributor | ✅ Oracle Cloud Infrastructure AI Certified |
-| 🚀 Built 10+ Production Apps      | ✅ AWS S3 Basics                            |
-| 👥 Co-Founder @ WeBuilt_U         | ✅ Scrum Master (Agile)                     |
-|                                   | ✅ Web3 NFT Business Diploma                |
+| 🎓 Certifications | 🌟 Soft Skills |
+| :--- | :--- |
+| [cite_start]✅ **Azure Cognitive Services Project Certificate** - Microsoft [cite: 5] | [cite_start]**Problem-Solving** [cite: 41] |
+| [cite_start]✅ **Full-Stack Web Development** - Udemy [cite: 6] | [cite_start]**Adaptability** [cite: 42] |
+| [cite_start]✅ **AWS S3 Basics** - Coursera [cite: 5] | [cite_start]**Leadership** [cite: 42] |
+| | [cite_start]**Communication** [cite: 43] |
 
 </div>
 
 ---
 
-## 📈 Coding Activity
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nk10nikhil&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nk10nikhil&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nk10nikhil&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nk10nikhil&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true" alt="Contribution Graph" height="170"/>
 </div>
 
 ---
 
 ## 📫 Let's Connect
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-nk10nikhil.vercel.app-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nk10nikhil.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nk10nikhil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nk10nikhil/)
-[![Email](https://img.shields.io/badge/Email-nk10nikhil@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nk10nikhil@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-nk10nikhil-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nk10nikhil/)
-[![GitHub](https://img.shields.io/badge/GitHub-nk10nikhil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nk10nikhil/)
-
-</div>
-
----
+Open to collaborations and Junior Developer opportunities in Java or Full-Stack roles.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nk10nikhil&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/akshatpandey/"><img src="https://img.shields.io/badge/LinkedIn-AkshatPandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:pandeyakshat2504@gmail.com"><img src="https://img.shields.io/badge/Email-pandeyakshat2504@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/akshatpandey"><img src="https://img.shields.io/badge/GitHub-akshatpandey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <div align="center">
   
-### ⚡ Turning ideas into impactful code! ⚡
-
-*💡 Open for collaborations | 🚀 Always learning | 🎯 Building the future, one commit at a time*
+### ✨ Turning technical foundation into scalable reality. ✨
 
 </div>

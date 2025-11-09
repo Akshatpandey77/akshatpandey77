@@ -12,14 +12,14 @@
 
 ## 👨‍💻 Akshat Pandey | Full-Stack Developer & Java Enthusiast
 
-[cite_start]I am a highly **motivated Full-Stack Developer** [cite: 2] [cite_start]seeking to leverage my MCA background and technical skills to develop scalable web applications for a dynamic organization[cite: 3]. [cite_start]I focus on contributing to impactful projects and fostering professional growth[cite: 3].
+I am a highly **motivated Full-Stack Developer**  seeking to leverage my MCA background and technical skills to develop scalable web applications for a dynamic organization. I focus on contributing to impactful projects and fostering professional growth.
 
-* [cite_start]🎓 **Education:** MCA '25 Candidate @ Galgotias College of Engineering and Technology (Sep 2023 - July 2025) [cite: 8, 9]
-* [cite_start]📍 **Location:** Noida, Uttar Pradesh, India [cite: 13]
-* [cite_start]💡 **Expertise:** Java, JavaScript, React.js, Node.js, and implementing secure RESTful APIs[cite: 2, 19, 21, 22, 38].
-* [cite_start]⚙️ **Core Coursework:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management, and Computer Networks[cite: 47, 48, 49, 52].
-* [cite_start]🚀 **Goal:** To develop scalable web applications, contributing to impactful projects[cite: 3].
-* [cite_start]⚡ **Fun Fact:** My technical foundation includes deep coursework in Operating Systems[cite: 51].
+* 🎓 **Education:** MCA '25 Candidate @ Galgotias College of Engineering and Technology (Sep 2023 - July 2025)
+* 📍 **Location:** Noida, Uttar Pradesh, India 
+* 💡 **Expertise:** Java, JavaScript, React.js, Node.js, and implementing secure RESTful APIs
+* ⚙️ **Core Coursework:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management, and Computer Networks
+* 🚀 **Goal:** To develop scalable web applications, contributing to impactful projects.
+* ⚡ **Fun Fact:** My technical foundation includes deep coursework in Operating Systems.
 
 ---
 
@@ -62,24 +62,24 @@ Demonstrating skills in building complete, production-ready applications with a 
 
 ### 🛒 E-commerce Platform with Secure Payments
 
-[cite_start]**Key Technologies:** React.js, Next.js, Node.js, Express.js, MongoDB [cite: 36]
+**Key Technologies:** React.js, Next.js, Node.js, Express.js, MongoDB 
 
-> [cite_start]Full-stack platform featuring **Razorpay** integration for secure payments[cite: 37].
-> [cite_start]* Handled **6,000+ monthly transactions**[cite: 37].
-> [cite_start]* Implemented **RESTful APIs** with **JWT authentication** for efficient checkout[cite: 38].
-> [cite_start]* Optimized performance using **lazy loading** and **Lighthouse audits** to improve application speed and reliability[cite: 39, 40].
+>Full-stack platform featuring **Razorpay** integration for secure payments
+> * Handled **6,000+ monthly transactions**.
+> * Implemented **RESTful APIs** with **JWT authentication** for efficient checkout.
+> * Optimized performance using **lazy loading** and **Lighthouse audits** to improve application speed and reliability.
 
 ---
 
 ### 🏡 StayNest - Vacation Rental Platform
 
-[cite_start]**Key Technologies:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Tailwind CSS [cite: 31, 34]
+[cite_start]**Key Technologies:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Tailwind CSS 
 
-> [cite_start]A fully functional rental platform built entirely on the **MERN Stack**[cite: 31].
-> [cite_start]* Core features include browsing properties, booking stays, and managing listings[cite: 32].
-> [cite_start]* Implemented **JWT authentication** for secure access[cite: 33].
-> [cite_start]* Used **Cloudinary** for scalable image uploads[cite: 33].
-> [cite_start]* Features a **responsive UI** designed with Tailwind CSS for cross-device compatibility[cite: 34].
+> A fully functional rental platform built entirely on the **MERN Stack**
+> * Core features include browsing properties, booking stays, and managing listings.
+> * Implemented **JWT authentication** for secure access.
+> * Used **Cloudinary** for scalable image uploads.
+> * Features a **responsive UI** designed with Tailwind CSS for cross-device compatibility.
 
 </div>
 
@@ -93,10 +93,10 @@ Validating specialized knowledge in core development and cloud technologies.
 
 | 🎓 Certifications | 🌟 Soft Skills |
 | :--- | :--- |
-| [cite_start]✅ **Azure Cognitive Services Project Certificate** - Microsoft [cite: 5] | [cite_start]**Problem-Solving** [cite: 41] |
-| [cite_start]✅ **Full-Stack Web Development** - Udemy [cite: 6] | [cite_start]**Adaptability** [cite: 42] |
-| [cite_start]✅ **AWS S3 Basics** - Coursera [cite: 5] | [cite_start]**Leadership** [cite: 42] |
-| | [cite_start]**Communication** [cite: 43] |
+| ✅ **Azure Cognitive Services Project Certificate** - Microsoft  | **Problem-Solving**  |
+| ✅ **Full-Stack Web Development** - Udemy  | **Adaptability**  |
+| ✅ **AWS S3 Basics** - Coursera  | **Leadership**  |
+| | **Communication**  |
 
 </div>
 
@@ -121,9 +121,9 @@ Validating specialized knowledge in core development and cloud technologies.
 Open to collaborations and Junior Developer opportunities in Java or Full-Stack roles.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/akshatpandey/"><img src="https://img.shields.io/badge/LinkedIn-AkshatPandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/akshatpandey2504"><img src="https://img.shields.io/badge/LinkedIn-AkshatPandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pandeyakshat2504@gmail.com"><img src="https://img.shields.io/badge/Email-pandeyakshat2504@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/akshatpandey"><img src="https://img.shields.io/badge/GitHub-akshatpandey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/akshatpandey77"><img src="https://img.shields.io/badge/GitHub-akshatpandey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
 <div align="center">
